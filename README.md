@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**PwccaCode/Pwccacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hello im leo** 👋
 
-Here are some ideas to get you started:
+**My socials**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardohramos/)
+
+
+
+**About me**
+
+- Aspiring computer science undergrad 
+
+- ❤️ full time anime enjoyer.
+
+### My stats
+
+![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwccacode&count_private=true&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwccacode&layout=compact)
+
+
