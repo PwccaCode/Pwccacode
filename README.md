@@ -11,7 +11,7 @@
 
 - Aspiring computer science undergrad 
 
-- ❤️ full time anime enjoyer.
+- currently working as .NET Dev
 
 ### My stats
 
